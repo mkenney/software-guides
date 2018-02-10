@@ -1,4 +1,4 @@
-Also: [Productionisation checklist](PROD-CHECKLIST.md)
+Also: [Productionisation checklist](PRODUCTIONISATION-CHECKLIST.md)
 
 # stability-badges
 

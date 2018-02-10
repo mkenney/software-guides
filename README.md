@@ -1,4 +1,4 @@
-# guidelines
+# Software guidelines
 
 Various software engineering guidelines, checklists and best practices.
 

@@ -41,6 +41,7 @@ Checklist of things to consider when [productionizing](https://en.wikipedia.org/
 - [ ] Services are compiled with `-buildmode=pie`
   * https://en.wikipedia.org/wiki/Position-independent_code
   * https://en.wikipedia.org/wiki/Address_space_layout_randomization
+  * https://eklitzke.org/position-independent-executables
 
 ## Daemons
 ### Startup and shutdown

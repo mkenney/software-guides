@@ -68,7 +68,7 @@ See also, the [productionisation checklist](PRODUCTIONISATION-CHECKLIST.md).
 ### Release Candidate
 [![stability-release-candidate](https://img.shields.io/badge/stability-pre--release-48c9b0.svg)](https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#release-candidate)
 
-Code is fairly settled and is use in production systems. Backwards-compatibility will be mintained unless serious issues are discovered and consensus on a better solution is reached.
+Code is fairly settled and is in use in production systems. Backwards-compatibility will be mintained unless serious issues are discovered and consensus on a better solution is reached.
 
 ```markdown
 [![stability-release-candidate](https://img.shields.io/badge/stability-pre--release-48c9b0.svg)](https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#release-candidate)
